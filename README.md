@@ -1,4 +1,5 @@
-This is my Homework 3 for BUS 445, Advanced Business Analytics. - `readiness_Scolieri.py` is the Python program I made in VS Code.
+This is my Homework 3 for BUS 445, Advanced Business Analytics. - 
+- `readiness_Scolieri.py` is the Python program I made in VS Code.
 - `readiness_Scolieri.ipynb` is the same program I ran in Jupyter.
 ## Git Commands
 
